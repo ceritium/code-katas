@@ -33,7 +33,7 @@ context("MaxNumber", function()
 
 end)
 
--- tsc -f max_number_test.lua
+-- $ tsc -f max_number_test.lua
 -- ------------------------------------------------------------------------
 -- MaxNumber:
 -- Should return 1                                                      [P]
